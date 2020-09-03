@@ -3,3 +3,4 @@ study
 learn
 cry
 improve
+laugh
