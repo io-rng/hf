@@ -1,4 +1,4 @@
 # hf 
 learn,
-improve,
+improve yourself,
 laugh.
