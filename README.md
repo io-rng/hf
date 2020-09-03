@@ -1,6 +1,6 @@
 # hf 
-study
-learn
-cry
-improve
-laugh
+study,
+learn,
+cry,
+improve,
+laugh.
